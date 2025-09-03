@@ -1,0 +1,29 @@
+# 🚀 TP1 – Ejercicios de JavaScript
+
+Este proyecto contiene la resolución de los **11 primeros ejercicios** de JavaScript, donde se practican:
+
+- 📝 Variables (`const`, `let`)  
+- 📥 Entrada con `prompt`  
+- 📤 Salida con `alert` y `document.write`  
+- 🔀 Condicionales `if / else`  
+- 🔡 Funciones de string: `length`, `charAt`
+
+---
+
+## ✅ Ejercicios
+1. Alert con un mensaje  
+2. Mostrar “Hello World”  
+3. Suma de 3 + 5  
+4. Pedir nombre y saludar  
+5. Pedir dos números y sumarlos  
+6. Mostrar el mayor de dos números  
+7. Mostrar el mayor de tres números  
+8. Verificar si un número es divisible por 2  
+9. Mostrar vocales de una frase (máx. 5 caracteres)  
+10. Comprobar divisibilidad por 2, 3, 5 o 7  
+11. Indicar por cuáles divisores es divisible  
+
+---
+
+## 👥 Autores
+- **Basilio Martinez** ✍️   
