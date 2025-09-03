@@ -5,6 +5,6 @@ let num2 = parseInt(prompt("Ingrese otro número:"));
 document.write("La suma es: " + (num1 + num2) + "<br>");
 */
 
-let num1 = parseInt (prompt('Ingrese un numero:'))
-let num2 = parseInt (prompt('Ingrese otro numero:'))
+const num1 = parseInt (prompt('Ingrese un numero:'))
+const num2 = parseInt (prompt('Ingrese otro numero:'))
 document.writeln('La suma es: ' + (num1 + num2))
