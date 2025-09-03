@@ -7,8 +7,8 @@ Output: El 15 es el número más grande
 
 //6 - Mostrar el mayor de dos números
 
-let a = parseInt(prompt("Ingrese el primer numero:"));
-let b = parseInt(prompt("Ingrese el segundo numero:"));
+const a = parseInt(prompt("Ingrese el primer numero:"));
+const b = parseInt(prompt("Ingrese el segundo numero:"));
 
 if (a > b) {
   document.writeln("El " + a + " es el numero mas grande <br>");
